@@ -36,12 +36,12 @@
                                     <span class="menu-title">Dashboards</span>	
                                 </span>
                             </a>
-                            <a href="#">
+                            <a href="#1">
                                 <span class="menu-link py-3">
                                     <span class="menu-title">Dashboards</span>	
                                 </span>
                             </a>
-                            <a href="#">
+                            <a href="#2">
                                 <span class="menu-link py-3">
                                     <span class="menu-title">Dashboards</span>	
                                 </span>
