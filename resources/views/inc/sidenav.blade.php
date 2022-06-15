@@ -45,7 +45,7 @@
                     </span>
                     <div class="menu-sub menu-sub-accordion menu-active-bg">
                         <div class="menu-item">
-                            <a class="menu-link active" href="../../demo1/dist/index.html">
+                            <a class="menu-link active" href="#">
                                 <span class="menu-bullet">
                                     <span class="bullet bullet-dot"></span>
                                 </span>
@@ -53,7 +53,7 @@
                             </a>
                         </div>
                         <div class="menu-item">
-                            <a class="menu-link" href="../../demo1/dist/dashboards/ecommerce.html">
+                            <a class="menu-link" href="#">
                                 <span class="menu-bullet">
                                     <span class="bullet bullet-dot"></span>
                                 </span>
@@ -282,7 +282,7 @@
                             </span>
                             <div class="menu-sub menu-sub-accordion menu-active-bg">
                                 <div class="menu-item">
-                                    <a class="menu-link" href="../../demo1/dist/pages/faq/classic.html">
+                                    <a class="menu-link" href="#">
                                         <span class="menu-bullet">
                                             <span class="bullet bullet-dot"></span>
                                         </span>
@@ -290,7 +290,7 @@
                                     </a>
                                 </div>
                                 <div class="menu-item">
-                                    <a class="menu-link" href="../../demo1/dist/pages/faq/extended.html">
+                                    <a class="menu-link" href="#">
                                         <span class="menu-bullet">
                                             <span class="bullet bullet-dot"></span>
                                         </span>
@@ -300,7 +300,7 @@
                             </div>
                         </div>
                         <div class="menu-item">
-                            <a class="menu-link" href="../../demo1/dist/pages/about.html">
+                            <a class="menu-link" href="#">
                                 <span class="menu-bullet">
                                     <span class="bullet bullet-dot"></span>
                                 </span>
@@ -308,7 +308,7 @@
                             </a>
                         </div>
                         <div class="menu-item">
-                            <a class="menu-link" href="../../demo1/dist/pages/contact.html">
+                            <a class="menu-link" href="#">
                                 <span class="menu-bullet">
                                     <span class="bullet bullet-dot"></span>
                                 </span>
@@ -316,7 +316,7 @@
                             </a>
                         </div>
                         <div class="menu-item">
-                            <a class="menu-link" href="../../demo1/dist/pages/team.html">
+                            <a class="menu-link" href="#">
                                 <span class="menu-bullet">
                                     <span class="bullet bullet-dot"></span>
                                 </span>
@@ -324,7 +324,7 @@
                             </a>
                         </div>
                         <div class="menu-item">
-                            <a class="menu-link" href="../../demo1/dist/pages/licenses.html">
+                            <a class="menu-link" href="#">
                                 <span class="menu-bullet">
                                     <span class="bullet bullet-dot"></span>
                                 </span>
@@ -332,7 +332,7 @@
                             </a>
                         </div>
                         <div class="menu-item">
-                            <a class="menu-link" href="../../demo1/dist/pages/sitemap.html">
+                            <a class="menu-link" href="#">
                                 <span class="menu-bullet">
                                     <span class="bullet bullet-dot"></span>
                                 </span>
@@ -358,7 +358,7 @@
                     </span>
                     <div class="menu-sub menu-sub-accordion menu-active-bg">
                         <div class="menu-item">
-                            <a class="menu-link" href="../../demo1/dist/account/overview.html">
+                            <a class="menu-link" href="#">
                                 <span class="menu-bullet">
                                     <span class="bullet bullet-dot"></span>
                                 </span>
@@ -366,7 +366,7 @@
                             </a>
                         </div>
                         <div class="menu-item">
-                            <a class="menu-link" href="../../demo1/dist/account/settings.html">
+                            <a class="menu-link" href="#">
                                 <span class="menu-bullet">
                                     <span class="bullet bullet-dot"></span>
                                 </span>
@@ -374,7 +374,7 @@
                             </a>
                         </div>
                         <div class="menu-item">
-                            <a class="menu-link" href="../../demo1/dist/account/security.html">
+                            <a class="menu-link" href="#">
                                 <span class="menu-bullet">
                                     <span class="bullet bullet-dot"></span>
                                 </span>
@@ -382,7 +382,7 @@
                             </a>
                         </div>
                         <div class="menu-item">
-                            <a class="menu-link" href="../../demo1/dist/account/billing.html">
+                            <a class="menu-link" href="#">
                                 <span class="menu-bullet">
                                     <span class="bullet bullet-dot"></span>
                                 </span>
@@ -390,7 +390,7 @@
                             </a>
                         </div>
                         <div class="menu-item">
-                            <a class="menu-link" href="../../demo1/dist/account/statements.html">
+                            <a class="menu-link" href="#">
                                 <span class="menu-bullet">
                                     <span class="bullet bullet-dot"></span>
                                 </span>
@@ -398,7 +398,7 @@
                             </a>
                         </div>
                         <div class="menu-item">
-                            <a class="menu-link" href="../../demo1/dist/account/referrals.html">
+                            <a class="menu-link" href="#">
                                 <span class="menu-bullet">
                                     <span class="bullet bullet-dot"></span>
                                 </span>
@@ -406,7 +406,7 @@
                             </a>
                         </div>
                         <div class="menu-item">
-                            <a class="menu-link" href="../../demo1/dist/account/api-keys.html">
+                            <a class="menu-link" href="#">
                                 <span class="menu-bullet">
                                     <span class="bullet bullet-dot"></span>
                                 </span>
@@ -414,7 +414,7 @@
                             </a>
                         </div>
                         <div class="menu-item">
-                            <a class="menu-link" href="../../demo1/dist/account/logs.html">
+                            <a class="menu-link" href="#">
                                 <span class="menu-bullet">
                                     <span class="bullet bullet-dot"></span>
                                 </span>
@@ -449,7 +449,7 @@
                             </span>
                             <div class="menu-sub menu-sub-accordion menu-active-bg">
                                 <div class="menu-item">
-                                    <a class="menu-link" href="../../demo1/dist/authentication/layouts/basic/sign-in.html">
+                                    <a class="menu-link" href="#">
                                         <span class="menu-bullet">
                                             <span class="bullet bullet-dot"></span>
                                         </span>
@@ -457,7 +457,7 @@
                                     </a>
                                 </div>
                                 <div class="menu-item">
-                                    <a class="menu-link" href="../../demo1/dist/authentication/layouts/basic/sign-up.html">
+                                    <a class="menu-link" href="#">
                                         <span class="menu-bullet">
                                             <span class="bullet bullet-dot"></span>
                                         </span>
@@ -465,7 +465,7 @@
                                     </a>
                                 </div>
                                 <div class="menu-item">
-                                    <a class="menu-link" href="../../demo1/dist/authentication/layouts/basic/two-steps.html">
+                                    <a class="menu-link" href="#">
                                         <span class="menu-bullet">
                                             <span class="bullet bullet-dot"></span>
                                         </span>
@@ -473,7 +473,7 @@
                                     </a>
                                 </div>
                                 <div class="menu-item">
-                                    <a class="menu-link" href="../../demo1/dist/authentication/layouts/basic/password-reset.html">
+                                    <a class="menu-link" href="#">
                                         <span class="menu-bullet">
                                             <span class="bullet bullet-dot"></span>
                                         </span>
@@ -481,7 +481,7 @@
                                     </a>
                                 </div>
                                 <div class="menu-item">
-                                    <a class="menu-link" href="../../demo1/dist/authentication/layouts/basic/new-password.html">
+                                    <a class="menu-link" href="#">
                                         <span class="menu-bullet">
                                             <span class="bullet bullet-dot"></span>
                                         </span>
@@ -500,7 +500,7 @@
                             </span>
                             <div class="menu-sub menu-sub-accordion menu-active-bg">
                                 <div class="menu-item">
-                                    <a class="menu-link" href="../../demo1/dist/authentication/layouts/aside/sign-in.html">
+                                    <a class="menu-link" href="#">
                                         <span class="menu-bullet">
                                             <span class="bullet bullet-dot"></span>
                                         </span>
@@ -508,7 +508,7 @@
                                     </a>
                                 </div>
                                 <div class="menu-item">
-                                    <a class="menu-link" href="../../demo1/dist/authentication/layouts/aside/sign-up.html">
+                                    <a class="menu-link" href="#">
                                         <span class="menu-bullet">
                                             <span class="bullet bullet-dot"></span>
                                         </span>
@@ -516,7 +516,7 @@
                                     </a>
                                 </div>
                                 <div class="menu-item">
-                                    <a class="menu-link" href="../../demo1/dist/authentication/layouts/aside/two-steps.html">
+                                    <a class="menu-link" href="#">
                                         <span class="menu-bullet">
                                             <span class="bullet bullet-dot"></span>
                                         </span>
@@ -524,7 +524,7 @@
                                     </a>
                                 </div>
                                 <div class="menu-item">
-                                    <a class="menu-link" href="../../demo1/dist/authentication/layouts/aside/password-reset.html">
+                                    <a class="menu-link" href="#">
                                         <span class="menu-bullet">
                                             <span class="bullet bullet-dot"></span>
                                         </span>
@@ -532,7 +532,7 @@
                                     </a>
                                 </div>
                                 <div class="menu-item">
-                                    <a class="menu-link" href="../../demo1/dist/authentication/layouts/aside/new-password.html">
+                                    <a class="menu-link" href="#">
                                         <span class="menu-bullet">
                                             <span class="bullet bullet-dot"></span>
                                         </span>
@@ -551,7 +551,7 @@
                             </span>
                             <div class="menu-sub menu-sub-accordion menu-active-bg">
                                 <div class="menu-item">
-                                    <a class="menu-link" href="../../demo1/dist/authentication/layouts/dark/sign-in.html">
+                                    <a class="menu-link" href="#">
                                         <span class="menu-bullet">
                                             <span class="bullet bullet-dot"></span>
                                         </span>
@@ -559,7 +559,7 @@
                                     </a>
                                 </div>
                                 <div class="menu-item">
-                                    <a class="menu-link" href="../../demo1/dist/authentication/layouts/dark/sign-up.html">
+                                    <a class="menu-link" href="#">
                                         <span class="menu-bullet">
                                             <span class="bullet bullet-dot"></span>
                                         </span>
@@ -567,7 +567,7 @@
                                     </a>
                                 </div>
                                 <div class="menu-item">
-                                    <a class="menu-link" href="../../demo1/dist/authentication/layouts/dark/two-steps.html">
+                                    <a class="menu-link" href="#">
                                         <span class="menu-bullet">
                                             <span class="bullet bullet-dot"></span>
                                         </span>
@@ -575,7 +575,7 @@
                                     </a>
                                 </div>
                                 <div class="menu-item">
-                                    <a class="menu-link" href="../../demo1/dist/authentication/layouts/dark/password-reset.html">
+                                    <a class="menu-link" href="#">
                                         <span class="menu-bullet">
                                             <span class="bullet bullet-dot"></span>
                                         </span>
@@ -583,7 +583,7 @@
                                     </a>
                                 </div>
                                 <div class="menu-item">
-                                    <a class="menu-link" href="../../demo1/dist/authentication/layouts/dark/new-password.html">
+                                    <a class="menu-link" href="#">
                                         <span class="menu-bullet">
                                             <span class="bullet bullet-dot"></span>
                                         </span>
@@ -593,7 +593,7 @@
                             </div>
                         </div>
                         <div class="menu-item">
-                            <a class="menu-link" href="../../demo1/dist/authentication/extended/multi-steps-sign-up.html">
+                            <a class="menu-link" href="#">
                                 <span class="menu-bullet">
                                     <span class="bullet bullet-dot"></span>
                                 </span>
@@ -601,7 +601,7 @@
                             </a>
                         </div>
                         <div class="menu-item">
-                            <a class="menu-link" href="../../demo1/dist/authentication/extended/two-factor-authentication.html">
+                            <a class="menu-link" href="#">
                                 <span class="menu-bullet">
                                     <span class="bullet bullet-dot"></span>
                                 </span>
@@ -609,7 +609,7 @@
                             </a>
                         </div>
                         <div class="menu-item">
-                            <a class="menu-link" href="../../demo1/dist/authentication/extended/free-trial-sign-up.html">
+                            <a class="menu-link" href="#">
                                 <span class="menu-bullet">
                                     <span class="bullet bullet-dot"></span>
                                 </span>
@@ -617,7 +617,7 @@
                             </a>
                         </div>
                         <div class="menu-item">
-                            <a class="menu-link" href="../../demo1/dist/authentication/extended/coming-soon.html">
+                            <a class="menu-link" href="#">
                                 <span class="menu-bullet">
                                     <span class="bullet bullet-dot"></span>
                                 </span>
@@ -625,7 +625,7 @@
                             </a>
                         </div>
                         <div class="menu-item">
-                            <a class="menu-link" href="../../demo1/dist/authentication/general/welcome.html">
+                            <a class="menu-link" href="#">
                                 <span class="menu-bullet">
                                     <span class="bullet bullet-dot"></span>
                                 </span>
@@ -633,7 +633,7 @@
                             </a>
                         </div>
                         <div class="menu-item">
-                            <a class="menu-link" href="../../demo1/dist/authentication/general/verify-email.html">
+                            <a class="menu-link" href="#">
                                 <span class="menu-bullet">
                                     <span class="bullet bullet-dot"></span>
                                 </span>
@@ -641,7 +641,7 @@
                             </a>
                         </div>
                         <div class="menu-item">
-                            <a class="menu-link" href="../../demo1/dist/authentication/general/password-confirmation.html">
+                            <a class="menu-link" href="#">
                                 <span class="menu-bullet">
                                     <span class="bullet bullet-dot"></span>
                                 </span>
@@ -649,7 +649,7 @@
                             </a>
                         </div>
                         <div class="menu-item">
-                            <a class="menu-link" href="../../demo1/dist/authentication/general/deactivation.html">
+                            <a class="menu-link" href="#">
                                 <span class="menu-bullet">
                                     <span class="bullet bullet-dot"></span>
                                 </span>
@@ -657,7 +657,7 @@
                             </a>
                         </div>
                         <div class="menu-item">
-                            <a class="menu-link" href="../../demo1/dist/authentication/general/error-404.html">
+                            <a class="menu-link" href="#">
                                 <span class="menu-bullet">
                                     <span class="bullet bullet-dot"></span>
                                 </span>
@@ -665,7 +665,7 @@
                             </a>
                         </div>
                         <div class="menu-item">
-                            <a class="menu-link" href="../../demo1/dist/authentication/general/error-500.html">
+                            <a class="menu-link" href="#">
                                 <span class="menu-bullet">
                                     <span class="bullet bullet-dot"></span>
                                 </span>
@@ -682,7 +682,7 @@
                             </span>
                             <div class="menu-sub menu-sub-accordion menu-active-bg">
                                 <div class="menu-item">
-                                    <a class="menu-link" href="../../demo1/dist/authentication/email/verify-email.html" target="blank">
+                                    <a class="menu-link" href="#" target="blank">
                                         <span class="menu-bullet">
                                             <span class="bullet bullet-dot"></span>
                                         </span>
@@ -690,7 +690,7 @@
                                     </a>
                                 </div>
                                 <div class="menu-item">
-                                    <a class="menu-link" href="../../demo1/dist/authentication/email/invitation.html" target="blank">
+                                    <a class="menu-link" href="#" target="blank">
                                         <span class="menu-bullet">
                                             <span class="bullet bullet-dot"></span>
                                         </span>
@@ -698,7 +698,7 @@
                                     </a>
                                 </div>
                                 <div class="menu-item">
-                                    <a class="menu-link" href="../../demo1/dist/authentication/email/password-reset.html" target="blank">
+                                    <a class="menu-link" href="#" target="blank">
                                         <span class="menu-bullet">
                                             <span class="bullet bullet-dot"></span>
                                         </span>
@@ -706,7 +706,7 @@
                                     </a>
                                 </div>
                                 <div class="menu-item">
-                                    <a class="menu-link" href="../../demo1/dist/authentication/email/password-change.html" target="blank">
+                                    <a class="menu-link" href="#" target="blank">
                                         <span class="menu-bullet">
                                             <span class="bullet bullet-dot"></span>
                                         </span>
@@ -752,7 +752,7 @@
                                     </span>
                                     <div class="menu-sub menu-sub-accordion menu-active-bg">
                                         <div class="menu-item">
-                                            <a class="menu-link" href="../../demo1/dist/utilities/modals/general/invite-friends.html">
+                                            <a class="menu-link" href="#">
                                                 <span class="menu-bullet">
                                                     <span class="bullet bullet-dot"></span>
                                                 </span>
@@ -760,7 +760,7 @@
                                             </a>
                                         </div>
                                         <div class="menu-item">
-                                            <a class="menu-link" href="../../demo1/dist/utilities/modals/general/view-users.html">
+                                            <a class="menu-link" href="#">
                                                 <span class="menu-bullet">
                                                     <span class="bullet bullet-dot"></span>
                                                 </span>
@@ -768,7 +768,7 @@
                                             </a>
                                         </div>
                                         <div class="menu-item">
-                                            <a class="menu-link" href="../../demo1/dist/utilities/modals/general/select-users.html">
+                                            <a class="menu-link" href="#">
                                                 <span class="menu-bullet">
                                                     <span class="bullet bullet-dot"></span>
                                                 </span>
@@ -776,7 +776,7 @@
                                             </a>
                                         </div>
                                         <div class="menu-item">
-                                            <a class="menu-link" href="../../demo1/dist/utilities/modals/general/upgrade-plan.html">
+                                            <a class="menu-link" href="#">
                                                 <span class="menu-bullet">
                                                     <span class="bullet bullet-dot"></span>
                                                 </span>
@@ -792,7 +792,7 @@
                                             </a>
                                         </div>
                                     </div>
-                                </div>
+                                </div> 
                                 <div data-kt-menu-trigger="click" class="menu-item menu-accordion">
                                     <span class="menu-link">
                                         <span class="menu-bullet">
